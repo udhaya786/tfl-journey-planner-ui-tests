@@ -5,8 +5,8 @@ Automation framework using playwright, TyrpeScript and Cucumber (Gherkin)
 This repository contains automated tests for
 
 1. ## Ui Automation
-   Transport for London (TfL) Journey Planner widget
-   Built using Playwright Test + TypeScript
+   Transport for London (TfL) Journey Planner widget, 
+   Built using Playwright Test + TypeScript, 
    Uses Page Object Model (POM)
 
 2. ## API Automation
