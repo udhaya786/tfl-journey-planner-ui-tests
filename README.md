@@ -1,6 +1,19 @@
-# Tfl Journey Planner Widget UI test (Playwright+Typescript)
-This project provides UI test automation for the public **Transport for London (Tfl) "Plan a journey"** widget
-The tests are implemented using **Playwright Test** with **Typescript** and follow a **Page Object Model (POM)** design
+# Tfl Journey Planner UI test + OpenLibrary API Test 
+Automation framework using playwright, TyrpeScript and Cucumber (Gherkin)
+
+## Overview
+This repository contains automated tests for
+
+1. ## Ui Automation
+   Transport for London (TfL) Journey Planner widget
+   Built using Playwright Test + TypeScript
+   Uses Page Object Model (POM)
+
+2. ## API Automation
+   OpenLibrary Books API
+   Built using Playwright APIRequestContext + Cucumber + TypeScript
+   Uses Gherkin syntax for Behaviour Driven Development (BDD)
+   Includes response validation, performance checks, and thumbnail image comparison
 
 ## Tech Stake
 -Node.js and
